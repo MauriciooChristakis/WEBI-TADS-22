@@ -48,4 +48,28 @@
   .sec-2-img {
     flex-direction: column;
   }
+
+  .sec-4-col1{
+    width: 100%;
+  }
+
+    .row-1{
+      width: 100%;
+     justify-content: center;
+    }
+
+    .row-2{
+      width: 100%;
+      justify-content: center;
+      gap: 20px;
+    }
+
+  .footer .footer-row1 .footer-col1,
+  .footer-col2,
+  .footer-col3 {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+  }
 }

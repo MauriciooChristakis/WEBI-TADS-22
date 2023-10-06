@@ -198,7 +198,7 @@ section {
 .sec-4 {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 
   width: 100%;
   background-color: var(--cor-terciaria);
@@ -275,6 +275,7 @@ section {
 }
 
 .footer .footer-row2 {
+  gap: 20px;
   padding: 20px 50px;
   background-color: var(--cor-primaria);
   color: white;
